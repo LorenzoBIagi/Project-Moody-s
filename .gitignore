@@ -210,3 +210,6 @@ xfac/
 
 .vendor/
 xfac/
+.vscode/
+src/
+environment.yml/
